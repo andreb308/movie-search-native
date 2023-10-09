@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "movie-search-native",
+    "name": "Cinema Quest",
     "slug": "movie-search-native",
-    "version": "1.0.0",
+    "description" : "The best app for people questing inside cinemas.",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
